@@ -53,6 +53,7 @@ cask 'imageoptim'
 cask 'licecap'
 cask 'spotify'
 cask 'toggldesktop'
+cask 'adobe-creative-cloud'
 
 # Quicklook
 cask 'qlcolorcode'
