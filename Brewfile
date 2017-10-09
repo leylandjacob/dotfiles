@@ -25,43 +25,34 @@ brew 'homebrew/dupes/grep'
 # Install Binaries
 brew 'awscli'
 brew 'git'
-brew 'hub'
 brew 'tree'
 brew 'mackup'
 brew 'mas'
 brew 'node'
 brew 'trash'
 brew 'wget'
+brew 'mongodb'
+brew 'r'
+brew 'ruby'
 
 # Development
 brew 'php71'
 brew 'php71-intl'
-brew 'mariadb'
+brew 'heroku'
+cask 'tower'
+cask 'webstorm'
+cask 'cyberduck'
+cask 'mamp'
+cask 'postico'
+cask 'robo-3t'
 
 # Apps
-cask 'aerial'
-cask 'alfred'
-cask 'caffeine'
-cask 'docker'
 cask 'firefox'
-cask 'google-backup-and-sync'
 cask 'google-chrome'
-cask 'gpgtools'
-cask 'iterm2'
-cask 'mysqlworkbench'
-cask 'phpstorm'
-cask 'quip'
-cask 'sequel-pro'
-cask 'shuttle'
-cask 'slack'
-cask 'sublime-text'
-cask 'torbrowser'
-cask 'tower'
-cask 'transmit'
-cask 'vagrant'
-cask 'virtualbox'
-cask 'virtualbox-extension-pack'
-cask 'vlc'
+cask 'imageoptim'
+cask 'licecap'
+cask 'spotify'
+cask 'toggldesktop'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -78,11 +69,14 @@ cask 'font-source-serif-pro'
 
 # Install Mac App Store apps
 mas '1Password', id: 443987910
-mas 'Byword', id: 420212497
-mas 'Deckset', id: 847496013
-mas 'Gapplin', id: 768053424
 mas 'Giphy Capture', id: 668208984
-mas 'Paw', id: 584653203
-mas 'Sip', id: 507257563
 mas 'Sketch', id: 402476602
-mas 'Tweetbot', id: 557168941
+mas 'Magnet', id: 441258766
+mas 'ScreencastMaker', id: 622339633
+mas 'Slack', id: 803453959
+mas 'Polymail', id: 1134717305
+mas 'Medis', id: 1063631769
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Keynote', id: 409183694
+
