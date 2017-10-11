@@ -22,3 +22,9 @@ One thing you'll need to do manually is add your `~/.zshrc` file. You can't syml
 # Load Zsh
 source ~/.dotfiles/.zshrc
 ```
+
+---
+To do: 
+gem 'bundler'
+gem 'compass'
+gem 'jekyll bundler'
