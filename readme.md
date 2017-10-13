@@ -25,6 +25,7 @@ source ~/.dotfiles/.zshrc
 
 ---
 To do: 
-gem 'bundler'
-gem 'compass'
-gem 'jekyll bundler'
+gem 'bundler' . 
+gem 'compass' . 
+gem 'jekyll bundler' . 
+npm install -g nodemon . 
